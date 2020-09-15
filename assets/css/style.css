@@ -351,6 +351,11 @@ a:hover {
   background-color: #222 !important
 }
 
+.lang-icon {
+  font-size: 20px;
+  color: #3ef8f4;
+}
+
 .icon {
   font-size: 45px
 }
@@ -445,8 +450,12 @@ textarea.form-control {
 }
 
 .navbar .lang-select {
-  height: 48px;
+  margin-top: 7px;
+  height: 40px;
   padding: 5px;
+  background-color: var(--primary-color);
+  border-style: none;
+  color: white;;
 }
 
 .navbar .nav-item .nav-link {

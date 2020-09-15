@@ -5,15 +5,15 @@ work_process:
   item:
   - title : "Devops Courses"
     icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Master Degree courses modules of 30 hours. Introduction to AWS and automation with Terraform / Ansible, Continous integration principles and a lot more..."
 
   - title : "Cloud Automations"
     icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "I am DevOps engineer looking for challenges in setting up automated architectures and solving complex problems such as realtime data processing, continuous integration, centralized logging, cloud monitoring, and Big Data processing."
 
   - title : "Web development"
     icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Building JAMStack websites following best-practices with automated deployment to CDN networks. Access data through a CMS platform allowing you to gain control on your website"
 
 
 # team
