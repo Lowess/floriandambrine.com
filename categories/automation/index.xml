@@ -9,20 +9,20 @@
     <lastBuildDate>Sat, 12 Mar 2016 12:14:34 +0600</lastBuildDate><atom:link href="https://lowess.github.io/floriandambrine.com/categories/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ansible - Continuous Integration</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2016-03-ansible-continuous-integnation/</link>
+      <link>https://lowess.github.io/floriandambrine.com/portfolio/2016-03-ansible-continuous-integration/</link>
       <pubDate>Sat, 12 Mar 2016 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2016-03-ansible-continuous-integnation/</guid>
-      <description>Le Projet In order to ensure the accuracy of automations, testing is essential!</description>
+      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2016-03-ansible-continuous-integration/</guid>
+      <description>The Project In order to ensure the accuracy of automations, testing is essential!</description>
     </item>
     
     <item>
       <title>Ansible - Security with Vault</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2015-12-ansible-secunity-with-vault/</link>
+      <link>https://lowess.github.io/floriandambrine.com/portfolio/2015-12-ansible-security-with-vault/</link>
       <pubDate>Sat, 12 Dec 2015 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2015-12-ansible-secunity-with-vault/</guid>
-      <description>Le Projet Vault est une fonctionalité d&amp;rsquo;Ansible qui permet de conserver les données sensibles comme les mots de passe ou les clés dans les fichiers cryptés au lieu de les conserver en texte clair dans les playbooks et les roles.</description>
+      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2015-12-ansible-security-with-vault/</guid>
+      <description>The Project Vault est une fonctionalité d&amp;rsquo;Ansible qui permet de conserver les données sensibles comme les mots de passe ou les clés dans les fichiers cryptés au lieu de les conserver en texte clair dans les playbooks et les roles.</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Sun, 12 Jul 2015 12:14:34 +0600</pubDate>
       
       <guid>https://lowess.github.io/floriandambrine.com/portfolio/2015-07-cassandra-multiregion/</guid>
-      <description>Le Projet After having opened new datacenters in Ireland and in California, GumGum&amp;rsquo;s engineering team had to work on important architecture changes in order to optimize the response time of applications using the NoSql database Cassandra.</description>
+      <description>The Project After having opened new datacenters in Ireland and in California, GumGum&amp;rsquo;s engineering team had to work on important architecture changes in order to optimize the response time of applications using the NoSql database Cassandra.</description>
     </item>
     
   </channel>

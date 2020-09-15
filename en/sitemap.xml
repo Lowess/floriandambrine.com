@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/portfolio/2016-11-pritunl-multinegion-pening/</loc>
+    <loc>https://lowess.github.io/floriandambrine.com/portfolio/2016-11-pritunl-multinegion-peering/</loc>
     <lastmod>2016-11-12T12:14:34+06:00</lastmod>
   </url>
   
@@ -163,8 +163,18 @@
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/portfolio/2016-03-ansible-continuous-integnation/</loc>
+    <loc>https://lowess.github.io/floriandambrine.com/portfolio/2016-03-ansible-continuous-integration/</loc>
     <lastmod>2016-03-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2016-03-ansible-continuous-integration/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lowess.github.io/floriandambrine.com/portfolio/2016-03-ansible-continuous-integration/"
+                />
   </url>
   
   <url>
@@ -183,13 +193,33 @@
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/portfolio/2015-12-ansible-secunity-with-vault/</loc>
+    <loc>https://lowess.github.io/floriandambrine.com/portfolio/2015-12-ansible-security-with-vault/</loc>
     <lastmod>2015-12-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-12-ansible-security-with-vault/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lowess.github.io/floriandambrine.com/portfolio/2015-12-ansible-security-with-vault/"
+                />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/portfolio/2015-07-ansible-metup/</loc>
+    <loc>https://lowess.github.io/floriandambrine.com/portfolio/2015-07-ansible-meetup/</loc>
     <lastmod>2015-07-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-07-ansible-meetup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lowess.github.io/floriandambrine.com/portfolio/2015-07-ansible-meetup/"
+                />
   </url>
   
   <url>

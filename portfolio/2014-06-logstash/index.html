@@ -216,7 +216,7 @@
         </div>
       </div>
       <div class="col-lg-11">
-        <div class="content"><h4 id="le-projet">Le Projet</h4>
+        <div class="content"><h4 id="the-project">The Project</h4>
 <p>I have had a chance to compare several centralized logging solutions in order to replace the current Splunk&gt;Storm architecture. I decided to dig into Logstash which is a tool for managing events and logs. You can use it to collect logs, parse them, and store them for later use (like, for searching). Logstash is well integrated with Elasticsearch and Kibana, this stack is commonly named ELK.</p>
 <p>The architecture involves, Logstash forwarders (deployed over more than 150 servers), a Redis queue that helps to buffer events coming from the forwarders, a group of Logstash servers acting as parsers that inserts processed logs into Elasticsearch. Kibana is the final bundle of this architecture which displays dashboards and graphs exploiting Elasticsearch data.</p>
 <p>I developed a couple of scripts in order to trigger email alerts when a threshold is reached or optimize monitor or maintain the Elasticsearch backend.</p>

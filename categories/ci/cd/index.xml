@@ -8,11 +8,11 @@
     <language>en-US</language><atom:link href="https://lowess.github.io/floriandambrine.com/categories/ci/cd/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ansible - Continuous Integration</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2016-03-ansible-continuous-integnation/</link>
+      <link>https://lowess.github.io/floriandambrine.com/portfolio/2016-03-ansible-continuous-integration/</link>
       <pubDate>Sat, 12 Mar 2016 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2016-03-ansible-continuous-integnation/</guid>
-      <description>Le Projet In order to ensure the accuracy of automations, testing is essential!</description>
+      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2016-03-ansible-continuous-integration/</guid>
+      <description>The Project In order to ensure the accuracy of automations, testing is essential!</description>
     </item>
     
   </channel>
