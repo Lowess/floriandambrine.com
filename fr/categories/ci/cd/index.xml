@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ci/cd on Florian Dambrine</title>
+    <link>https://lowess.github.io/floriandambrine.com/fr/categories/ci/cd/</link>
+    <description>Recent content in ci/cd on Florian Dambrine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://lowess.github.io/floriandambrine.com/fr/categories/ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ansible - Continuous Integration</title>
+      <link>https://lowess.github.io/floriandambrine.com/fr/portfolio/2016-03-ansible-continuous-integration/</link>
+      <pubDate>Sat, 12 Mar 2016 12:14:34 +0600</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/fr/portfolio/2016-03-ansible-continuous-integration/</guid>
+      <description>Le Projet Afin d&amp;rsquo;assurer le bon fonctionnement des automatisations, les tests sont indispensables!</description>
+    </item>
+    
+  </channel>
+</rss>

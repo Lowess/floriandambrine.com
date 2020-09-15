@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Florian Dambrine</title>
+    <link>https://lowess.github.io/floriandambrine.com/fr/categories/</link>
+    <description>Recent content in Categories on Florian Dambrine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 12 Nov 2016 12:14:34 +0600</lastBuildDate><atom:link href="https://lowess.github.io/floriandambrine.com/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>devops</title>
+      <link>https://lowess.github.io/floriandambrine.com/fr/categories/devops/</link>
+      <pubDate>Sat, 12 Nov 2016 12:14:34 +0600</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/fr/categories/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>speaker</title>
+      <link>https://lowess.github.io/floriandambrine.com/fr/categories/speaker/</link>
+      <pubDate>Wed, 12 Oct 2016 12:14:34 +0600</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/fr/categories/speaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>automation</title>
+      <link>https://lowess.github.io/floriandambrine.com/fr/categories/automation/</link>
+      <pubDate>Sat, 12 Mar 2016 12:14:34 +0600</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/fr/categories/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>events</title>
+      <link>https://lowess.github.io/floriandambrine.com/fr/categories/events/</link>
+      <pubDate>Sun, 12 Jul 2015 12:14:34 +0600</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/fr/categories/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>https://lowess.github.io/floriandambrine.com/fr/categories/development/</link>
+      <pubDate>Thu, 12 Mar 2015 12:14:34 +0600</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/fr/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>internship</title>
+      <link>https://lowess.github.io/floriandambrine.com/fr/categories/internship/</link>
+      <pubDate>Mon, 12 Jan 2015 12:14:34 +0600</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/fr/categories/internship/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web</title>
+      <link>https://lowess.github.io/floriandambrine.com/fr/categories/web/</link>
+      <pubDate>Wed, 12 Feb 2014 12:14:34 +0600</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/fr/categories/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ci/cd</title>
+      <link>https://lowess.github.io/floriandambrine.com/fr/categories/ci/cd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/fr/categories/ci/cd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>internship on Florian Dambrine</title>
+    <link>https://lowess.github.io/floriandambrine.com/categories/internship/</link>
+    <description>Recent content in internship on Florian Dambrine</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 12 Jan 2015 12:14:34 +0600</lastBuildDate><atom:link href="https://lowess.github.io/floriandambrine.com/categories/internship/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blog V2</title>
+      <link>https://lowess.github.io/floriandambrine.com/portfolio/2015-01-blog-v2/</link>
+      <pubDate>Mon, 12 Jan 2015 12:14:34 +0600</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2015-01-blog-v2/</guid>
+      <description>Le Projet After about a year of life of this blog, I decided to re-develop it with Python.</description>
+    </item>
+    
+    <item>
+      <title>Icinga2 Monitoring</title>
+      <link>https://lowess.github.io/floriandambrine.com/portfolio/2014-10-icinga2/</link>
+      <pubDate>Sun, 12 Oct 2014 12:14:34 +0600</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2014-10-icinga2/</guid>
+      <description>Le Projet Icinga is a scalable and extensible monitoring system which checks the availability of resources, notifies users of outages and provides extensive BI data.</description>
+    </item>
+    
+    <item>
+      <title>Ansible - Automatisation d&#39;infrastructure</title>
+      <link>https://lowess.github.io/floriandambrine.com/portfolio/2014-08-ansible/</link>
+      <pubDate>Tue, 12 Aug 2014 12:14:34 +0600</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2014-08-ansible/</guid>
+      <description>Le Projet I have been involved in building from scratch, a new automation plateform based on Ansible.</description>
+    </item>
+    
+    <item>
+      <title>Logstash - Centralisation d&#39;évènements</title>
+      <link>https://lowess.github.io/floriandambrine.com/portfolio/2014-06-logstash/</link>
+      <pubDate>Thu, 12 Jun 2014 12:14:34 +0600</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2014-06-logstash/</guid>
+      <description>Le Projet I have had a chance to compare several centralized logging solutions in order to replace the current Splunk&amp;gt;Storm architecture.</description>
+    </item>
+    
+    <item>
+      <title>Jenkins CI</title>
+      <link>https://lowess.github.io/floriandambrine.com/portfolio/2014-05-jenkins-ci/</link>
+      <pubDate>Mon, 12 May 2014 12:14:34 +0600</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2014-05-jenkins-ci/</guid>
+      <description>Le Projet I have been involved in replacing the current continuous integration server named Bamboo (an Atlassian product) by an open source technology, Jenkins.</description>
+    </item>
+    
+    <item>
+      <title>ArcheoSuite</title>
+      <link>https://lowess.github.io/floriandambrine.com/portfolio/2014-02-archeo-suite/</link>
+      <pubDate>Wed, 12 Feb 2014 12:14:34 +0600</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2014-02-archeo-suite/</guid>
+      <description>Le Projet The Archeo Suite was developed for the archaeological service of Amiens.</description>
+    </item>
+    
+    <item>
+      <title>Snecma Vortex</title>
+      <link>https://lowess.github.io/floriandambrine.com/portfolio/2012-01-snecma-vortex/</link>
+      <pubDate>Thu, 12 Jan 2012 12:14:34 +0600</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2012-01-snecma-vortex/</guid>
+      <description>Le Projet As a part of my assistant engineer internship at the Snecma (Safran group company), I worked on the structuring and the setting up of a data base which was designed to deals with exploitation results of rocket engine tests.</description>
+    </item>
+    
+    <item>
+      <title>Les-Arts-De-La-Grimpe</title>
+      <link>https://lowess.github.io/floriandambrine.com/portfolio/2010-07-les-arts-de-la-grimpe/</link>
+      <pubDate>Mon, 12 Jul 2010 12:14:34 +0600</pubDate>
+      
+      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2010-07-les-arts-de-la-grimpe/</guid>
+      <description>Le Projet “Les Arts de la Grimpe” is a website developed for the rock climbing association of Flixecourt (Picardy - FRANCE).</description>
+    </item>
+    
+  </channel>
+</rss>
