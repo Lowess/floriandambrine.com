@@ -1,0 +1,170 @@
+# banner
+banner:
+  title : "Florian Dambrine <br>"
+  words:
+     - 'DevOps engineer'
+     - 'Master Degree Teacher'
+     - 'Computer scientist'
+
+# about
+about:
+  enable : true
+  content : >
+    Je suis Ingénieur DevOps Freelance diplomé de l'UTC (Université de Technologie de Compiègne) en 2014.
+
+    Aujourd'hui je travaille principalement pour GumGum, une startup Californienne chez qui j'ai effectué mon stage de fin d'études d'une durée de 6 mois.
+
+    J'aime avant tout évoluer avec les nouvelles technologies pour relever des challenges dans un monde qui bouge vite!
+  button:
+    enable : true
+    label : "voir plus..."
+    URL : "about"
+
+# skill
+skill:
+  enable : true
+  title : "Compétences"
+  item:
+    - title : "Infrastructure as Code"
+      progress : "100%"
+      color : "#48cae4"
+
+    - title : "Continuous integration"
+      progress : "90%"
+      color : "#caf0f8"
+
+    - title : "Python"
+      progress : "80%"
+      color : "#bdecf6"
+
+    - title : "Scale"
+      progress : "90%"
+      color : "#ffbcaa"
+
+    - title : "Continuous integration"
+      progress : "70%"
+      color : "#9473e6"
+
+    - title : "Continuous integration"
+      progress : "70%"
+      color : "#9473e6"
+
+# experience
+experience:
+  enable : true
+  title : "Expérience"
+  item:
+    - logo : "images/experience/icon-1.png"
+      title : "Principal Engineer"
+      company : "GumGum"
+      duration : "Aug 2019 – Present"
+
+    - logo : "images/experience/icon-3.png"
+      title : "Senior DevOps Engineer"
+      company : "GumGum"
+      duration : "Feb 2017 – Aug 2019"
+
+    - logo : "images/experience/icon-3.png"
+      title : "DevOps Engineer"
+      company : "GumGum"
+      duration : "Jul 2014 – Feb 2017"
+
+    - logo : "images/experience/icon-1.png"
+      title : "Big-Data Intern"
+      company : "GumGum"
+      duration : "Feb 2014 – Jul 2014"
+
+# education
+education:
+  enable : true
+  title : "Parcours"
+  item:
+    - title : "Master's degree in Computer Engineering"
+      year : "2011 - 2014"
+      academy : "UTC - University of Technology of Compiègne - FRANCE"
+
+    - title : "Institute of Technology"
+      year : "2008 - 2011"
+      academy : "University of Picardy Jules Verne - FRANCE"
+
+    - title : "French Baccalaureat, specialising in Maths and Science, with honours"
+      year : "2009"
+      academy : "Madeleine Michelis High school - FRANCE"
+
+    - title : "Animation Capacity Diploma and Kayak Instructor Diploma"
+      icon: "ti-comments"
+      year : "2009"
+      academy : "CEMEA - FRANCE"
+
+
+
+# service
+service:
+  enable : true
+  title : "Prestations"
+  item:
+    - title : "JAMStack WebSites"
+      icon : "ti-layout"
+      content : >
+        On demand website creation following best practices
+      highlighted : false
+
+    - title : "Cloud Automations"
+      icon : "ti-cloud"
+      content : >
+        I am DevOps engineer looking for challenges in setting up automated architectures and solving complex problems such as realtime data processing, continuous integration, centralized logging, cloud monitoring, and Big Data processing.
+      highlighted : true
+
+    - title : "Speaker / DevOps Courses"
+      icon : "ti-user"
+      content : >
+        Master Degree courses modules of 30 hours.
+
+        Introduction to AWS and automation with Terraform / Ansible. Spin up an entire AWS infrastructure using Terraform and discover multiple ways to interact with this cloud provider (AWS Console / Aws-cli / SDKs). Once the infrastructure is fully up, we will see how Terraform can help managing such an AWS environment, and deploy similar environments such as staging and dev...
+      highlighted : false
+
+# portfolio
+portfolio:
+  enable : true
+  title : "Portfolio"
+  item_show : 9
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+# testimonial
+testimonial:
+  enable : false
+  title : "Testimonials"
+  item:
+    - name : "Jesica Gomez"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+    - name : "Shirley Scot"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+    - name : "Jessica Julie"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+# client logo slider
+clients_logo_slider:
+  enable : true
+  item:
+    - logo : "images/clients-logo/gumgum.png"
+      URL : "http://gumgum.com"
+    - logo : "images/clients-logo/safran.png"
+      URL : "http://gumgum.com"
+    - logo : "images/clients-logo/gumgum.png"
+      URL : "http://gumgum.com"
+    - logo : "images/clients-logo/gumgum.png"
+      URL : "http://gumgum.com"
+
+# blog
+blog:
+  enable : true
+  title : "Blogs"
+  # blog post comes from "content/blog" folder

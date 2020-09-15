@@ -1,0 +1,9 @@
+<!-- social icon -->
+<ul class="list-unstyled ml-5 mt-3 position-relative zindex-1">
+  {{ $display :=  .display }}
+  {{ range site.Params.social }}
+  <li class="mb-3 {{ $display }}"><a class="text-white" href="{{.URL | safeURL }}"><i style="font-size: 40px;"
+        class="{{.icon}}"></i></a></li>
+  {{ end }}
+</ul>
+<!-- /social icon -->
