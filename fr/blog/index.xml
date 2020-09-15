@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on Florian Dambrine</title>
-    <link>https://blog.floriandambrine.com/fr/blog/</link>
+    <link>https://floriandambrine.com/fr/blog/</link>
     <description>Recent content in Blogs on Florian Dambrine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 14 Sep 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://blog.floriandambrine.com/fr/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Sep 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://floriandambrine.com/fr/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ops-Talks #01</title>
-      <link>https://blog.floriandambrine.com/fr/blog/2020-09-14-ops-talks/</link>
+      <link>https://floriandambrine.com/fr/blog/2020-09-14-ops-talks/</link>
       <pubDate>Mon, 14 Sep 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://blog.floriandambrine.com/fr/blog/2020-09-14-ops-talks/</guid>
+      <guid>https://floriandambrine.com/fr/blog/2020-09-14-ops-talks/</guid>
       <description>Ops-Talks #01 Ops-Talks comes from a desire to knowledge transfert +6 years worth of Ops knowledge / practice / tips &amp;amp; tricks to my fellow GumGum teammates.</description>
     </item>
     
     <item>
       <title>Karrot Lag Reporting At Scale</title>
-      <link>https://blog.floriandambrine.com/fr/blog/2019-12-09-kafka-lag-reporting-at-scale/</link>
+      <link>https://floriandambrine.com/fr/blog/2019-12-09-kafka-lag-reporting-at-scale/</link>
       <pubDate>Mon, 09 Dec 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://blog.floriandambrine.com/fr/blog/2019-12-09-kafka-lag-reporting-at-scale/</guid>
+      <guid>https://floriandambrine.com/fr/blog/2019-12-09-kafka-lag-reporting-at-scale/</guid>
       <description>Karrot Lag reporting Karrot is a simple Python Flask Webapp that ingests Burrow events sent by Burrow Notifiers which responds to consumer group status evaluations and makes HTTP calls to an outside server, Karrot.</description>
     </item>
     

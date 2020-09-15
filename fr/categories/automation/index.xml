@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>automation on Florian Dambrine</title>
-    <link>https://blog.floriandambrine.com/fr/categories/automation/</link>
+    <link>https://floriandambrine.com/fr/categories/automation/</link>
     <description>Recent content in automation on Florian Dambrine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 12 Mar 2016 12:14:34 +0600</lastBuildDate><atom:link href="https://blog.floriandambrine.com/fr/categories/automation/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Mar 2016 12:14:34 +0600</lastBuildDate><atom:link href="https://floriandambrine.com/fr/categories/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ansible - Continuous Integration</title>
-      <link>https://blog.floriandambrine.com/fr/portfolio/2016-03-ansible-continuous-integration/</link>
+      <link>https://floriandambrine.com/fr/portfolio/2016-03-ansible-continuous-integration/</link>
       <pubDate>Sat, 12 Mar 2016 12:14:34 +0600</pubDate>
       
-      <guid>https://blog.floriandambrine.com/fr/portfolio/2016-03-ansible-continuous-integration/</guid>
+      <guid>https://floriandambrine.com/fr/portfolio/2016-03-ansible-continuous-integration/</guid>
       <description>Le Projet Afin d&amp;rsquo;assurer le bon fonctionnement des automatisations, les tests sont indispensables!</description>
     </item>
     
     <item>
       <title>Ansible - Security with Vault</title>
-      <link>https://blog.floriandambrine.com/fr/portfolio/2015-12-ansible-security-with-vault/</link>
+      <link>https://floriandambrine.com/fr/portfolio/2015-12-ansible-security-with-vault/</link>
       <pubDate>Sat, 12 Dec 2015 12:14:34 +0600</pubDate>
       
-      <guid>https://blog.floriandambrine.com/fr/portfolio/2015-12-ansible-security-with-vault/</guid>
+      <guid>https://floriandambrine.com/fr/portfolio/2015-12-ansible-security-with-vault/</guid>
       <description>Le Projet Vault est une fonctionalité d&amp;rsquo;Ansible qui permet de conserver les données sensibles comme les mots de passe ou les clés dans les fichiers cryptés au lieu de les conserver en texte clair dans les playbooks et les roles.</description>
     </item>
     
     <item>
       <title>Cassandra - Interconnexion de clusters en multi-régions</title>
-      <link>https://blog.floriandambrine.com/fr/portfolio/2015-07-cassandra-multiregion/</link>
+      <link>https://floriandambrine.com/fr/portfolio/2015-07-cassandra-multiregion/</link>
       <pubDate>Sun, 12 Jul 2015 12:14:34 +0600</pubDate>
       
-      <guid>https://blog.floriandambrine.com/fr/portfolio/2015-07-cassandra-multiregion/</guid>
+      <guid>https://floriandambrine.com/fr/portfolio/2015-07-cassandra-multiregion/</guid>
       <description>Le Projet Suite à l&amp;rsquo;ouverture de nouveaux datacenters en Irlande et en Californie, l&amp;rsquo;équipe d&amp;rsquo;ingénieurs GumGum a dû faire face à d&amp;rsquo;importants changements d&amp;rsquo;architecture afin d&amp;rsquo;optimiser les temps de réponse des applications utilisant la base de données Cassandra.</description>
     </item>
     

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>speaker on Florian Dambrine</title>
-    <link>https://blog.floriandambrine.com/categories/speaker/</link>
+    <link>https://floriandambrine.com/categories/speaker/</link>
     <description>Recent content in speaker on Florian Dambrine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 12 Oct 2016 12:14:34 +0600</lastBuildDate><atom:link href="https://blog.floriandambrine.com/categories/speaker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 Oct 2016 12:14:34 +0600</lastBuildDate><atom:link href="https://floriandambrine.com/categories/speaker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Speaker at TIAD conference</title>
-      <link>https://blog.floriandambrine.com/portfolio/2016-10-tiad-speaker/</link>
+      <link>https://floriandambrine.com/portfolio/2016-10-tiad-speaker/</link>
       <pubDate>Wed, 12 Oct 2016 12:14:34 +0600</pubDate>
       
-      <guid>https://blog.floriandambrine.com/portfolio/2016-10-tiad-speaker/</guid>
+      <guid>https://floriandambrine.com/portfolio/2016-10-tiad-speaker/</guid>
       <description>TIAD (The Incredible Automation Day) Conference TIAD offers the time, the tools &amp;amp; space to understand Automation and all the theory &amp;amp; practice around it.</description>
     </item>
     
     <item>
       <title>Ansible Meetup</title>
-      <link>https://blog.floriandambrine.com/portfolio/2015-07-ansible-meetup/</link>
+      <link>https://floriandambrine.com/portfolio/2015-07-ansible-meetup/</link>
       <pubDate>Sun, 12 Jul 2015 12:14:34 +0600</pubDate>
       
-      <guid>https://blog.floriandambrine.com/portfolio/2015-07-ansible-meetup/</guid>
+      <guid>https://floriandambrine.com/portfolio/2015-07-ansible-meetup/</guid>
       <description>The Project After about a year working with Ansible, I decided to present and share my knowledge with this technology during a public Meetup with the Ansible-Los-Angeles group in at the Santa Monica Public Library.</description>
     </item>
     

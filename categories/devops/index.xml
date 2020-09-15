@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>devops on Florian Dambrine</title>
-    <link>https://blog.floriandambrine.com/categories/devops/</link>
+    <link>https://floriandambrine.com/categories/devops/</link>
     <description>Recent content in devops on Florian Dambrine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 12 Nov 2016 12:14:34 +0600</lastBuildDate><atom:link href="https://blog.floriandambrine.com/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2016 12:14:34 +0600</lastBuildDate><atom:link href="https://floriandambrine.com/categories/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> Pritunl VPN - Multiregion peering</title>
-      <link>https://blog.floriandambrine.com/portfolio/2016-11-pritunl-multinegion-peering/</link>
+      <link>https://floriandambrine.com/portfolio/2016-11-pritunl-multinegion-peering/</link>
       <pubDate>Sat, 12 Nov 2016 12:14:34 +0600</pubDate>
       
-      <guid>https://blog.floriandambrine.com/portfolio/2016-11-pritunl-multinegion-peering/</guid>
+      <guid>https://floriandambrine.com/portfolio/2016-11-pritunl-multinegion-peering/</guid>
       <description>The Project Pritunl (https://pritunl.com) est une solution VPN d&amp;rsquo;entreprise open source distribuée.</description>
     </item>
     
     <item>
       <title>Speaker at TIAD conference</title>
-      <link>https://blog.floriandambrine.com/portfolio/2016-10-tiad-speaker/</link>
+      <link>https://floriandambrine.com/portfolio/2016-10-tiad-speaker/</link>
       <pubDate>Wed, 12 Oct 2016 12:14:34 +0600</pubDate>
       
-      <guid>https://blog.floriandambrine.com/portfolio/2016-10-tiad-speaker/</guid>
+      <guid>https://floriandambrine.com/portfolio/2016-10-tiad-speaker/</guid>
       <description>TIAD (The Incredible Automation Day) Conference TIAD offers the time, the tools &amp;amp; space to understand Automation and all the theory &amp;amp; practice around it.</description>
     </item>
     
     <item>
       <title>Ansible - Continuous Integration</title>
-      <link>https://blog.floriandambrine.com/portfolio/2016-03-ansible-continuous-integration/</link>
+      <link>https://floriandambrine.com/portfolio/2016-03-ansible-continuous-integration/</link>
       <pubDate>Sat, 12 Mar 2016 12:14:34 +0600</pubDate>
       
-      <guid>https://blog.floriandambrine.com/portfolio/2016-03-ansible-continuous-integration/</guid>
+      <guid>https://floriandambrine.com/portfolio/2016-03-ansible-continuous-integration/</guid>
       <description>The Project In order to ensure the accuracy of automations, testing is essential!</description>
     </item>
     
     <item>
       <title>Ansible - Security with Vault</title>
-      <link>https://blog.floriandambrine.com/portfolio/2015-12-ansible-security-with-vault/</link>
+      <link>https://floriandambrine.com/portfolio/2015-12-ansible-security-with-vault/</link>
       <pubDate>Sat, 12 Dec 2015 12:14:34 +0600</pubDate>
       
-      <guid>https://blog.floriandambrine.com/portfolio/2015-12-ansible-security-with-vault/</guid>
+      <guid>https://floriandambrine.com/portfolio/2015-12-ansible-security-with-vault/</guid>
       <description>The Project Vault est une fonctionalité d&amp;rsquo;Ansible qui permet de conserver les données sensibles comme les mots de passe ou les clés dans les fichiers cryptés au lieu de les conserver en texte clair dans les playbooks et les roles.</description>
     </item>
     
     <item>
       <title>Ansible Meetup</title>
-      <link>https://blog.floriandambrine.com/portfolio/2015-07-ansible-meetup/</link>
+      <link>https://floriandambrine.com/portfolio/2015-07-ansible-meetup/</link>
       <pubDate>Sun, 12 Jul 2015 12:14:34 +0600</pubDate>
       
-      <guid>https://blog.floriandambrine.com/portfolio/2015-07-ansible-meetup/</guid>
+      <guid>https://floriandambrine.com/portfolio/2015-07-ansible-meetup/</guid>
       <description>The Project After about a year working with Ansible, I decided to present and share my knowledge with this technology during a public Meetup with the Ansible-Los-Angeles group in at the Santa Monica Public Library.</description>
     </item>
     
     <item>
       <title>Cassandra - Interconnexion de clusters en multi-régions</title>
-      <link>https://blog.floriandambrine.com/portfolio/2015-07-cassandra-multiregion/</link>
+      <link>https://floriandambrine.com/portfolio/2015-07-cassandra-multiregion/</link>
       <pubDate>Sun, 12 Jul 2015 12:14:34 +0600</pubDate>
       
-      <guid>https://blog.floriandambrine.com/portfolio/2015-07-cassandra-multiregion/</guid>
+      <guid>https://floriandambrine.com/portfolio/2015-07-cassandra-multiregion/</guid>
       <description>The Project After having opened new datacenters in Ireland and in California, GumGum&amp;rsquo;s engineering team had to work on important architecture changes in order to optimize the response time of applications using the NoSql database Cassandra.</description>
     </item>
     
     <item>
       <title>Fluentd Traitement de données temps réel</title>
-      <link>https://blog.floriandambrine.com/portfolio/2015-03-fluentd-realtime/</link>
+      <link>https://floriandambrine.com/portfolio/2015-03-fluentd-realtime/</link>
       <pubDate>Thu, 12 Mar 2015 12:14:34 +0600</pubDate>
       
-      <guid>https://blog.floriandambrine.com/portfolio/2015-03-fluentd-realtime/</guid>
+      <guid>https://floriandambrine.com/portfolio/2015-03-fluentd-realtime/</guid>
       <description>The Project Fluentd is an OpenSource data collector for unified logging layer.</description>
     </item>
     
