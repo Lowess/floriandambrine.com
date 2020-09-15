@@ -9,7 +9,7 @@ description: "This is meta description."
 draft: false
 ---
 
-#### Le Projet
+#### The Project
 
 In order to ensure the accuracy of automations, testing is essential! Although, unlike unit testing, continuous integration testing are often more complex to design, especially when you are working with infrastructure as code….
 

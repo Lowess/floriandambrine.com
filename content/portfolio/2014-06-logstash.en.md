@@ -9,7 +9,7 @@ description: "This is meta description."
 draft: false
 ---
 
-#### Le Projet
+#### The Project
 
 I have had a chance to compare several centralized logging solutions in order to replace the current Splunk>Storm architecture. I decided to dig into Logstash which is a tool for managing events and logs. You can use it to collect logs, parse them, and store them for later use (like, for searching). Logstash is well integrated with Elasticsearch and Kibana, this stack is commonly named ELK.
 

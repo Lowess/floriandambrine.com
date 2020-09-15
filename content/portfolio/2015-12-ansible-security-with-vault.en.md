@@ -9,7 +9,7 @@ description: "This is meta description."
 draft: false
 ---
 
-#### Le Projet
+#### The Project
 
 Vault est une fonctionalité d'Ansible qui permet de conserver les données sensibles comme les mots de passe ou les clés dans les fichiers cryptés au lieu de les conserver en texte clair dans les playbooks et les roles. Les fichiers cryptés avec Vault peuvent ensuite être distribués ou placés dans un logiciel de gestion de versions en toute securité.
 

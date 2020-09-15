@@ -9,7 +9,7 @@ description: "This is meta description."
 draft: false
 ---
 
-#### Le Projet
+#### The Project
 
 I have been involved in building from scratch, a new automation plateform based on Ansible. All existing automations developed by Chef have been migrated to Ansible.
 

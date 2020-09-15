@@ -9,7 +9,7 @@ description: "This is meta description."
 draft: false
 ---
 
-#### Le Projet
+#### The Project
 
 Fluentd is an OpenSource data collector for unified logging layer. It allows you to unify data collection and consumption for a better use and understanding of data.
 

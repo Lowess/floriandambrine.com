@@ -9,7 +9,7 @@ description: "This is meta description."
 draft: false
 ---
 
-#### Le Projet
+#### The Project
 
 After having opened new datacenters in Ireland and in California, GumGum's engineering team had to work on important architecture changes in order to optimize the response time of applications using the NoSql database Cassandra.
 

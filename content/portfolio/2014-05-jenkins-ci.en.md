@@ -9,7 +9,7 @@ description: "This is meta description."
 draft: false
 ---
 
-#### Le Projet
+#### The Project
 
 I have been involved in replacing the current continuous integration server named Bamboo (an Atlassian product) by an open source technology, Jenkins. Indeed Jenkins allows you to manage a large number of projects and control the deployment process (running Unit tests, Artifactory deployment, S3 deployment).
 

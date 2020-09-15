@@ -9,7 +9,7 @@ description: "This is meta description."
 draft: false
 ---
 
-#### TIAD (The Incredible Automation Day) Conférence
+#### TIAD (The Incredible Automation Day) Conference
 
 TIAD offers the time, the tools & space to understand Automation and all the theory & practice around it. Thanks to inspiring speakers, live demos and interactive workshops, we give you the chance to LIVE the Automation your own way. Dedicated to IT professionals, TIAD is an inclusive event mixing developers & ops engineers, freelances & students, large companies & startups.
 

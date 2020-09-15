@@ -9,6 +9,6 @@ description: "This is meta description."
 draft: false
 ---
 
-#### Le Projet
+#### The Project
 
 “Les Arts de la Grimpe” is a website developed for the rock climbing association of Flixecourt (Picardy - FRANCE). At the beginning, it was a project from the Institue of Technology in which we were able to learn the main concept of web technologies. This website was developed from scratch using the MVC design pattern. It also uses a MySql database containing almost 20 tables.

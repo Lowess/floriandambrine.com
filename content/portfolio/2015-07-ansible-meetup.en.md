@@ -9,7 +9,7 @@ description: "This is meta description."
 draft: false
 ---
 
-#### Le Projet
+#### The Project
 
 After about a year working with Ansible, I decided to present and share my knowledge with this technology during a public Meetup with the Ansible-Los-Angeles group in at the Santa Monica Public Library.
 

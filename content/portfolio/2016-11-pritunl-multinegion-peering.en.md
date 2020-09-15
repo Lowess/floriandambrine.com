@@ -9,7 +9,7 @@ description: "This is meta description."
 draft: false
 ---
 
-#### Le Projet
+#### The Project
 
 Pritunl (https://pritunl.com) est une solution VPN d'entreprise open source distribuée. Cette technologie permet de virtualiser un ensemble de réseaux privés qui peuvent être localisés dans des datacenters ou des régions différentes.
 
