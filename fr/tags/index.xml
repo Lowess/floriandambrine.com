@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Florian Dambrine</title>
-    <link>https://lowess.github.io/floriandambrine.com/fr/tags/</link>
+    <link>https://blog.floriandambrine.com/fr/tags/</link>
     <description>Recent content in Tags on Florian Dambrine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 14 Sep 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://lowess.github.io/floriandambrine.com/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Sep 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://blog.floriandambrine.com/fr/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>medium</title>
-      <link>https://lowess.github.io/floriandambrine.com/fr/tags/medium/</link>
+      <link>https://blog.floriandambrine.com/fr/tags/medium/</link>
       <pubDate>Mon, 14 Sep 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/fr/tags/medium/</guid>
+      <guid>https://blog.floriandambrine.com/fr/tags/medium/</guid>
       <description></description>
     </item>
     

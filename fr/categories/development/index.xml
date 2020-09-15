@@ -2,99 +2,99 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>development on Florian Dambrine</title>
-    <link>https://lowess.github.io/floriandambrine.com/fr/categories/development/</link>
+    <link>https://blog.floriandambrine.com/fr/categories/development/</link>
     <description>Recent content in development on Florian Dambrine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 12 Mar 2015 12:14:34 +0600</lastBuildDate><atom:link href="https://lowess.github.io/floriandambrine.com/fr/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Mar 2015 12:14:34 +0600</lastBuildDate><atom:link href="https://blog.floriandambrine.com/fr/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fluentd Traitement de données temps réel</title>
-      <link>https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-03-fluentd-realtime/</link>
+      <link>https://blog.floriandambrine.com/fr/portfolio/2015-03-fluentd-realtime/</link>
       <pubDate>Thu, 12 Mar 2015 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-03-fluentd-realtime/</guid>
+      <guid>https://blog.floriandambrine.com/fr/portfolio/2015-03-fluentd-realtime/</guid>
       <description>Le Projet Fluentd est une technologie OpenSource permettant de collecter des données afin d&amp;rsquo;unifier leur traitement et leur stockage.</description>
     </item>
     
     <item>
       <title>Blog V2</title>
-      <link>https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-01-blog-v2/</link>
+      <link>https://blog.floriandambrine.com/fr/portfolio/2015-01-blog-v2/</link>
       <pubDate>Mon, 12 Jan 2015 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-01-blog-v2/</guid>
+      <guid>https://blog.floriandambrine.com/fr/portfolio/2015-01-blog-v2/</guid>
       <description>Le Projet Après une année de vie de ce blog, j&amp;rsquo;ai décidé de le remanier et de le porter sous Python.</description>
     </item>
     
     <item>
       <title>Icinga2 Monitoring</title>
-      <link>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-10-icinga2/</link>
+      <link>https://blog.floriandambrine.com/fr/portfolio/2014-10-icinga2/</link>
       <pubDate>Sun, 12 Oct 2014 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-10-icinga2/</guid>
+      <guid>https://blog.floriandambrine.com/fr/portfolio/2014-10-icinga2/</guid>
       <description>Le Projet Icinga est une solution de monitoring OpenSource qui permet de vérifier la disponibilité des services sur un réseau, de notifier les utilisateurs des interruptions de service et de générer des rapports de performance.</description>
     </item>
     
     <item>
       <title>Ansible - Automatisation d&#39;infrastructure</title>
-      <link>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-08-ansible/</link>
+      <link>https://blog.floriandambrine.com/fr/portfolio/2014-08-ansible/</link>
       <pubDate>Tue, 12 Aug 2014 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-08-ansible/</guid>
+      <guid>https://blog.floriandambrine.com/fr/portfolio/2014-08-ansible/</guid>
       <description>Le Projet Création d&amp;rsquo;une nouvelle plate-forme d&amp;rsquo;automatisation avec Ansible.
 L&amp;rsquo;ensemble des automatisations existantes réalisées avec Chef ont été migrées vers Ansible.</description>
     </item>
     
     <item>
       <title>Logstash - Centralisation d&#39;évènements</title>
-      <link>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-06-logstash/</link>
+      <link>https://blog.floriandambrine.com/fr/portfolio/2014-06-logstash/</link>
       <pubDate>Thu, 12 Jun 2014 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-06-logstash/</guid>
+      <guid>https://blog.floriandambrine.com/fr/portfolio/2014-06-logstash/</guid>
       <description>Le Projet J’ai eu l’occasion d’évaluer des outils de gestion de logs et d’événements afin de trouver une solution de remplacement à l’outils Splunk&amp;gt;Storm qui devenait trop honnereux.</description>
     </item>
     
     <item>
       <title>Jenkins CI</title>
-      <link>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-05-jenkins-ci/</link>
+      <link>https://blog.floriandambrine.com/fr/portfolio/2014-05-jenkins-ci/</link>
       <pubDate>Mon, 12 May 2014 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-05-jenkins-ci/</guid>
+      <guid>https://blog.floriandambrine.com/fr/portfolio/2014-05-jenkins-ci/</guid>
       <description>Le Projet J’ai été impliqué dans un projet de migration de serveur d’intégration continue visant à remplacer Bamboo, un produit payant d’Atlassian, par une technologie Open Source nommée Jenkins.</description>
     </item>
     
     <item>
       <title>ArcheoSuite</title>
-      <link>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-02-archeo-suite/</link>
+      <link>https://blog.floriandambrine.com/fr/portfolio/2014-02-archeo-suite/</link>
       <pubDate>Wed, 12 Feb 2014 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-02-archeo-suite/</guid>
+      <guid>https://blog.floriandambrine.com/fr/portfolio/2014-02-archeo-suite/</guid>
       <description>Le Projet La suite Archeo a été développée suite à un besoin du service archeologique de la ville d&amp;rsquo;Amiens.</description>
     </item>
     
     <item>
       <title>Bitmusic</title>
-      <link>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-01-bitmusic/</link>
+      <link>https://blog.floriandambrine.com/fr/portfolio/2014-01-bitmusic/</link>
       <pubDate>Sun, 12 Jan 2014 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-01-bitmusic/</guid>
+      <guid>https://blog.floriandambrine.com/fr/portfolio/2014-01-bitmusic/</guid>
       <description>Le Projet Projet réalisé lors du suivit de l&amp;rsquo;unité de valeur ‘Gestion de projet logiciel’ à l&amp;rsquo;UTC.</description>
     </item>
     
     <item>
       <title>Legend of Code</title>
-      <link>https://lowess.github.io/floriandambrine.com/fr/portfolio/2013-11-legend-of-code/</link>
+      <link>https://blog.floriandambrine.com/fr/portfolio/2013-11-legend-of-code/</link>
       <pubDate>Tue, 12 Nov 2013 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/fr/portfolio/2013-11-legend-of-code/</guid>
+      <guid>https://blog.floriandambrine.com/fr/portfolio/2013-11-legend-of-code/</guid>
       <description>Le Projet Legends of code est un concours organisé par D2SI pour les étudiants en dernière année d’école d’ingénieur ou d’université.</description>
     </item>
     
     <item>
       <title>Snecma Vortex</title>
-      <link>https://lowess.github.io/floriandambrine.com/fr/portfolio/2012-01-snecma-vortex/</link>
+      <link>https://blog.floriandambrine.com/fr/portfolio/2012-01-snecma-vortex/</link>
       <pubDate>Thu, 12 Jan 2012 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/fr/portfolio/2012-01-snecma-vortex/</guid>
+      <guid>https://blog.floriandambrine.com/fr/portfolio/2012-01-snecma-vortex/</guid>
       <description>Le Projet Dans le cadre de mon stage assistant ingénieur la Division Moteurs Spatiaux de Snecma (DMS) m’a confié un projet de base de données dont l’objectif est de gérer les résultats d’exploitation des essais du moteur Vinci® ; futur moteur d’étage supérieur d’Ariane 5.</description>
     </item>
     

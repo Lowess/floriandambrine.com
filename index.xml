@@ -2,188 +2,188 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Florian Dambrine</title>
-    <link>https://lowess.github.io/floriandambrine.com/</link>
+    <link>https://blog.floriandambrine.com/</link>
     <description>Recent content on Florian Dambrine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 14 Sep 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://lowess.github.io/floriandambrine.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Sep 2020 12:14:34 +0600</lastBuildDate><atom:link href="https://blog.floriandambrine.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ops-Talks #01</title>
-      <link>https://lowess.github.io/floriandambrine.com/blog/2020-09-14-ops-talks/</link>
+      <link>https://blog.floriandambrine.com/blog/2020-09-14-ops-talks/</link>
       <pubDate>Mon, 14 Sep 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/blog/2020-09-14-ops-talks/</guid>
+      <guid>https://blog.floriandambrine.com/blog/2020-09-14-ops-talks/</guid>
       <description>Ops-Talks #01 Ops-Talks comes from a desire to knowledge transfert +6 years worth of Ops knowledge / practice / tips &amp;amp; tricks to my fellow GumGum teammates.</description>
     </item>
     
     <item>
       <title>Karrot Lag Reporting At Scale</title>
-      <link>https://lowess.github.io/floriandambrine.com/blog/2019-12-09-kafka-lag-reporting-at-scale.en-copy/</link>
+      <link>https://blog.floriandambrine.com/blog/2019-12-09-kafka-lag-reporting-at-scale.en-copy/</link>
       <pubDate>Mon, 09 Dec 2019 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/blog/2019-12-09-kafka-lag-reporting-at-scale.en-copy/</guid>
+      <guid>https://blog.floriandambrine.com/blog/2019-12-09-kafka-lag-reporting-at-scale.en-copy/</guid>
       <description>Karrot Lag reporting Karrot is a simple Python Flask Webapp that ingests Burrow events sent by Burrow Notifiers which responds to consumer group status evaluations and makes HTTP calls to an outside server, Karrot.</description>
     </item>
     
     <item>
       <title> Pritunl VPN - Multiregion peering</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2016-11-pritunl-multinegion-peering/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2016-11-pritunl-multinegion-peering/</link>
       <pubDate>Sat, 12 Nov 2016 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2016-11-pritunl-multinegion-peering/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2016-11-pritunl-multinegion-peering/</guid>
       <description>The Project Pritunl (https://pritunl.com) est une solution VPN d&amp;rsquo;entreprise open source distribuée.</description>
     </item>
     
     <item>
       <title>Speaker at TIAD conference</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2016-10-tiad-speaker/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2016-10-tiad-speaker/</link>
       <pubDate>Wed, 12 Oct 2016 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2016-10-tiad-speaker/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2016-10-tiad-speaker/</guid>
       <description>TIAD (The Incredible Automation Day) Conference TIAD offers the time, the tools &amp;amp; space to understand Automation and all the theory &amp;amp; practice around it.</description>
     </item>
     
     <item>
       <title>Ansible - Continuous Integration</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2016-03-ansible-continuous-integration/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2016-03-ansible-continuous-integration/</link>
       <pubDate>Sat, 12 Mar 2016 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2016-03-ansible-continuous-integration/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2016-03-ansible-continuous-integration/</guid>
       <description>The Project In order to ensure the accuracy of automations, testing is essential!</description>
     </item>
     
     <item>
       <title>Ansible - Security with Vault</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2015-12-ansible-security-with-vault/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2015-12-ansible-security-with-vault/</link>
       <pubDate>Sat, 12 Dec 2015 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2015-12-ansible-security-with-vault/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2015-12-ansible-security-with-vault/</guid>
       <description>The Project Vault est une fonctionalité d&amp;rsquo;Ansible qui permet de conserver les données sensibles comme les mots de passe ou les clés dans les fichiers cryptés au lieu de les conserver en texte clair dans les playbooks et les roles.</description>
     </item>
     
     <item>
       <title>Ansible Meetup</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2015-07-ansible-meetup/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2015-07-ansible-meetup/</link>
       <pubDate>Sun, 12 Jul 2015 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2015-07-ansible-meetup/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2015-07-ansible-meetup/</guid>
       <description>The Project After about a year working with Ansible, I decided to present and share my knowledge with this technology during a public Meetup with the Ansible-Los-Angeles group in at the Santa Monica Public Library.</description>
     </item>
     
     <item>
       <title>Cassandra - Interconnexion de clusters en multi-régions</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2015-07-cassandra-multiregion/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2015-07-cassandra-multiregion/</link>
       <pubDate>Sun, 12 Jul 2015 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2015-07-cassandra-multiregion/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2015-07-cassandra-multiregion/</guid>
       <description>The Project After having opened new datacenters in Ireland and in California, GumGum&amp;rsquo;s engineering team had to work on important architecture changes in order to optimize the response time of applications using the NoSql database Cassandra.</description>
     </item>
     
     <item>
       <title>Fluentd Traitement de données temps réel</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2015-03-fluentd-realtime/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2015-03-fluentd-realtime/</link>
       <pubDate>Thu, 12 Mar 2015 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2015-03-fluentd-realtime/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2015-03-fluentd-realtime/</guid>
       <description>The Project Fluentd is an OpenSource data collector for unified logging layer.</description>
     </item>
     
     <item>
       <title>Blog V2</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2015-01-blog-v2/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2015-01-blog-v2/</link>
       <pubDate>Mon, 12 Jan 2015 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2015-01-blog-v2/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2015-01-blog-v2/</guid>
       <description>The Project After about a year of life of this blog, I decided to re-develop it with Python.</description>
     </item>
     
     <item>
       <title>Icinga2 Monitoring</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2014-10-icinga2/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2014-10-icinga2/</link>
       <pubDate>Sun, 12 Oct 2014 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2014-10-icinga2/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2014-10-icinga2/</guid>
       <description>The Project Icinga is a scalable and extensible monitoring system which checks the availability of resources, notifies users of outages and provides extensive BI data.</description>
     </item>
     
     <item>
       <title>Ansible - Automatisation d&#39;infrastructure</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2014-08-ansible/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2014-08-ansible/</link>
       <pubDate>Tue, 12 Aug 2014 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2014-08-ansible/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2014-08-ansible/</guid>
       <description>The Project I have been involved in building from scratch, a new automation plateform based on Ansible.</description>
     </item>
     
     <item>
       <title>Logstash - Centralisation d&#39;évènements</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2014-06-logstash/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2014-06-logstash/</link>
       <pubDate>Thu, 12 Jun 2014 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2014-06-logstash/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2014-06-logstash/</guid>
       <description>The Project I have had a chance to compare several centralized logging solutions in order to replace the current Splunk&amp;gt;Storm architecture.</description>
     </item>
     
     <item>
       <title>Jenkins CI</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2014-05-jenkins-ci/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2014-05-jenkins-ci/</link>
       <pubDate>Mon, 12 May 2014 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2014-05-jenkins-ci/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2014-05-jenkins-ci/</guid>
       <description>The Project I have been involved in replacing the current continuous integration server named Bamboo (an Atlassian product) by an open source technology, Jenkins.</description>
     </item>
     
     <item>
       <title>ArcheoSuite</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2014-02-archeo-suite/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2014-02-archeo-suite/</link>
       <pubDate>Wed, 12 Feb 2014 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2014-02-archeo-suite/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2014-02-archeo-suite/</guid>
       <description>The Project The Archeo Suite was developed for the archaeological service of Amiens.</description>
     </item>
     
     <item>
       <title>Blog V1</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2014-02-blog-v1/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2014-02-blog-v1/</link>
       <pubDate>Wed, 12 Feb 2014 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2014-02-blog-v1/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2014-02-blog-v1/</guid>
       <description>The Project This blog has allowed me to get used to the Symfony 2 framework.</description>
     </item>
     
     <item>
       <title>Bitmusic</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2014-01-bitmusic/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2014-01-bitmusic/</link>
       <pubDate>Sun, 12 Jan 2014 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2014-01-bitmusic/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2014-01-bitmusic/</guid>
       <description>The Project BitMusic is a software which gives you the ability to share and play songs with users connected to the same network (P2P).</description>
     </item>
     
     <item>
       <title>Legend of Code</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2013-11-legend-of-code/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2013-11-legend-of-code/</link>
       <pubDate>Tue, 12 Nov 2013 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2013-11-legend-of-code/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2013-11-legend-of-code/</guid>
       <description>The Project Legends of code is a contest. Experts from D2SI (Paris - FRANCE) mobilized themself to build an hackathon for students who are in last year engineering school or university.</description>
     </item>
     
     <item>
       <title>Snecma Vortex</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2012-01-snecma-vortex/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2012-01-snecma-vortex/</link>
       <pubDate>Thu, 12 Jan 2012 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2012-01-snecma-vortex/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2012-01-snecma-vortex/</guid>
       <description>The Project As a part of my assistant engineer internship at the Snecma (Safran group company), I worked on the structuring and the setting up of a data base which was designed to deals with exploitation results of rocket engine tests.</description>
     </item>
     
     <item>
       <title>Les-Arts-De-La-Grimpe</title>
-      <link>https://lowess.github.io/floriandambrine.com/portfolio/2010-07-les-arts-de-la-grimpe/</link>
+      <link>https://blog.floriandambrine.com/portfolio/2010-07-les-arts-de-la-grimpe/</link>
       <pubDate>Mon, 12 Jul 2010 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/portfolio/2010-07-les-arts-de-la-grimpe/</guid>
+      <guid>https://blog.floriandambrine.com/portfolio/2010-07-les-arts-de-la-grimpe/</guid>
       <description>The Project “Les Arts de la Grimpe” is a website developed for the rock climbing association of Flixecourt (Picardy - FRANCE).</description>
     </item>
     

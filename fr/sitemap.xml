@@ -3,519 +3,519 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/blog/</loc>
+    <loc>https://blog.floriandambrine.com/fr/blog/</loc>
     <lastmod>2020-09-14T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/blog/"
+                href="https://blog.floriandambrine.com/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/blog/"
+                href="https://blog.floriandambrine.com/fr/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/</loc>
+    <loc>https://blog.floriandambrine.com/fr/</loc>
     <lastmod>2020-09-14T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/"
+                href="https://blog.floriandambrine.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/"
+                href="https://blog.floriandambrine.com/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/tags/medium/</loc>
+    <loc>https://blog.floriandambrine.com/fr/tags/medium/</loc>
     <lastmod>2020-09-14T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/tags/medium/"
+                href="https://blog.floriandambrine.com/tags/medium/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/tags/medium/"
+                href="https://blog.floriandambrine.com/fr/tags/medium/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/blog/2020-09-14-ops-talks/</loc>
+    <loc>https://blog.floriandambrine.com/fr/blog/2020-09-14-ops-talks/</loc>
     <lastmod>2020-09-14T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/blog/2020-09-14-ops-talks/"
+                href="https://blog.floriandambrine.com/blog/2020-09-14-ops-talks/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/blog/2020-09-14-ops-talks/"
+                href="https://blog.floriandambrine.com/fr/blog/2020-09-14-ops-talks/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/tags/</loc>
+    <loc>https://blog.floriandambrine.com/fr/tags/</loc>
     <lastmod>2020-09-14T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/tags/"
+                href="https://blog.floriandambrine.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/tags/"
+                href="https://blog.floriandambrine.com/fr/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/blog/2019-12-09-kafka-lag-reporting-at-scale/</loc>
+    <loc>https://blog.floriandambrine.com/fr/blog/2019-12-09-kafka-lag-reporting-at-scale/</loc>
     <lastmod>2019-12-09T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2016-11-pritunl-multiregion-peering/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2016-11-pritunl-multiregion-peering/</loc>
     <lastmod>2016-11-12T12:14:34+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/categories/</loc>
-    <lastmod>2016-11-12T12:14:34+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/categories/devops/</loc>
+    <loc>https://blog.floriandambrine.com/fr/categories/</loc>
     <lastmod>2016-11-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/categories/devops/"
+                href="https://blog.floriandambrine.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/categories/devops/"
+                href="https://blog.floriandambrine.com/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/</loc>
+    <loc>https://blog.floriandambrine.com/fr/categories/devops/</loc>
     <lastmod>2016-11-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/"
+                href="https://blog.floriandambrine.com/categories/devops/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/"
+                href="https://blog.floriandambrine.com/fr/categories/devops/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/categories/speaker/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/</loc>
+    <lastmod>2016-11-12T12:14:34+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.floriandambrine.com/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://blog.floriandambrine.com/fr/portfolio/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://blog.floriandambrine.com/fr/categories/speaker/</loc>
     <lastmod>2016-10-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/categories/speaker/"
+                href="https://blog.floriandambrine.com/categories/speaker/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/categories/speaker/"
+                href="https://blog.floriandambrine.com/fr/categories/speaker/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2016-10-tiad-speaker/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2016-10-tiad-speaker/</loc>
     <lastmod>2016-10-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2016-10-tiad-speaker/"
+                href="https://blog.floriandambrine.com/portfolio/2016-10-tiad-speaker/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2016-10-tiad-speaker/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2016-10-tiad-speaker/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2016-03-ansible-continuous-integration/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2016-03-ansible-continuous-integration/</loc>
     <lastmod>2016-03-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2016-03-ansible-continuous-integration/"
+                href="https://blog.floriandambrine.com/portfolio/2016-03-ansible-continuous-integration/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2016-03-ansible-continuous-integration/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2016-03-ansible-continuous-integration/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/categories/automation/</loc>
+    <loc>https://blog.floriandambrine.com/fr/categories/automation/</loc>
     <lastmod>2016-03-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/categories/automation/"
+                href="https://blog.floriandambrine.com/categories/automation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/categories/automation/"
+                href="https://blog.floriandambrine.com/fr/categories/automation/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-12-ansible-security-with-vault/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2015-12-ansible-security-with-vault/</loc>
     <lastmod>2015-12-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2015-12-ansible-security-with-vault/"
+                href="https://blog.floriandambrine.com/portfolio/2015-12-ansible-security-with-vault/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-12-ansible-security-with-vault/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2015-12-ansible-security-with-vault/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-07-ansible-meetup/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2015-07-ansible-meetup/</loc>
     <lastmod>2015-07-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2015-07-ansible-meetup/"
+                href="https://blog.floriandambrine.com/portfolio/2015-07-ansible-meetup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-07-ansible-meetup/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2015-07-ansible-meetup/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-07-cassandra-multiregion/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2015-07-cassandra-multiregion/</loc>
     <lastmod>2015-07-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2015-07-cassandra-multiregion/"
+                href="https://blog.floriandambrine.com/portfolio/2015-07-cassandra-multiregion/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-07-cassandra-multiregion/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2015-07-cassandra-multiregion/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/categories/events/</loc>
+    <loc>https://blog.floriandambrine.com/fr/categories/events/</loc>
     <lastmod>2015-07-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/categories/events/"
+                href="https://blog.floriandambrine.com/categories/events/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/categories/events/"
+                href="https://blog.floriandambrine.com/fr/categories/events/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/categories/development/</loc>
+    <loc>https://blog.floriandambrine.com/fr/categories/development/</loc>
     <lastmod>2015-03-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/categories/development/"
+                href="https://blog.floriandambrine.com/categories/development/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/categories/development/"
+                href="https://blog.floriandambrine.com/fr/categories/development/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-03-fluentd-realtime/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2015-03-fluentd-realtime/</loc>
     <lastmod>2015-03-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2015-03-fluentd-realtime/"
+                href="https://blog.floriandambrine.com/portfolio/2015-03-fluentd-realtime/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-03-fluentd-realtime/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2015-03-fluentd-realtime/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-01-blog-v2/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2015-01-blog-v2/</loc>
     <lastmod>2015-01-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2015-01-blog-v2/"
+                href="https://blog.floriandambrine.com/portfolio/2015-01-blog-v2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-01-blog-v2/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2015-01-blog-v2/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/categories/internship/</loc>
+    <loc>https://blog.floriandambrine.com/fr/categories/internship/</loc>
     <lastmod>2015-01-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/categories/internship/"
+                href="https://blog.floriandambrine.com/categories/internship/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/categories/internship/"
+                href="https://blog.floriandambrine.com/fr/categories/internship/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-10-icinga2/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2014-10-icinga2/</loc>
     <lastmod>2014-10-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2014-10-icinga2/"
+                href="https://blog.floriandambrine.com/portfolio/2014-10-icinga2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-10-icinga2/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2014-10-icinga2/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-08-ansible/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2014-08-ansible/</loc>
     <lastmod>2014-08-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2014-08-ansible/"
+                href="https://blog.floriandambrine.com/portfolio/2014-08-ansible/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-08-ansible/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2014-08-ansible/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-06-logstash/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2014-06-logstash/</loc>
     <lastmod>2014-06-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2014-06-logstash/"
+                href="https://blog.floriandambrine.com/portfolio/2014-06-logstash/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-06-logstash/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2014-06-logstash/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-05-jenkins-ci/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2014-05-jenkins-ci/</loc>
     <lastmod>2014-05-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2014-05-jenkins-ci/"
+                href="https://blog.floriandambrine.com/portfolio/2014-05-jenkins-ci/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-05-jenkins-ci/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2014-05-jenkins-ci/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-02-archeo-suite/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2014-02-archeo-suite/</loc>
     <lastmod>2014-02-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2014-02-archeo-suite/"
+                href="https://blog.floriandambrine.com/portfolio/2014-02-archeo-suite/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-02-archeo-suite/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2014-02-archeo-suite/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-02-blog-v1/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2014-02-blog-v1/</loc>
     <lastmod>2014-02-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2014-02-blog-v1/"
+                href="https://blog.floriandambrine.com/portfolio/2014-02-blog-v1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-02-blog-v1/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2014-02-blog-v1/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/categories/web/</loc>
+    <loc>https://blog.floriandambrine.com/fr/categories/web/</loc>
     <lastmod>2014-02-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/categories/web/"
+                href="https://blog.floriandambrine.com/categories/web/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/categories/web/"
+                href="https://blog.floriandambrine.com/fr/categories/web/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-01-bitmusic/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2014-01-bitmusic/</loc>
     <lastmod>2014-01-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2014-01-bitmusic/"
+                href="https://blog.floriandambrine.com/portfolio/2014-01-bitmusic/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2014-01-bitmusic/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2014-01-bitmusic/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2013-11-legend-of-code/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2013-11-legend-of-code/</loc>
     <lastmod>2013-11-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2013-11-legend-of-code/"
+                href="https://blog.floriandambrine.com/portfolio/2013-11-legend-of-code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2013-11-legend-of-code/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2013-11-legend-of-code/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2012-01-snecma-vortex/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2012-01-snecma-vortex/</loc>
     <lastmod>2012-01-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2012-01-snecma-vortex/"
+                href="https://blog.floriandambrine.com/portfolio/2012-01-snecma-vortex/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2012-01-snecma-vortex/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2012-01-snecma-vortex/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/portfolio/2010-07-les-arts-de-la-grimpe/</loc>
+    <loc>https://blog.floriandambrine.com/fr/portfolio/2010-07-les-arts-de-la-grimpe/</loc>
     <lastmod>2010-07-12T12:14:34+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/portfolio/2010-07-les-arts-de-la-grimpe/"
+                href="https://blog.floriandambrine.com/portfolio/2010-07-les-arts-de-la-grimpe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/portfolio/2010-07-les-arts-de-la-grimpe/"
+                href="https://blog.floriandambrine.com/fr/portfolio/2010-07-les-arts-de-la-grimpe/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/about/</loc>
+    <loc>https://blog.floriandambrine.com/fr/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/about/"
+                href="https://blog.floriandambrine.com/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/about/"
+                href="https://blog.floriandambrine.com/fr/about/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/categories/ci/cd/</loc>
+    <loc>https://blog.floriandambrine.com/fr/categories/ci/cd/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/categories/ci/cd/"
+                href="https://blog.floriandambrine.com/categories/ci/cd/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/categories/ci/cd/"
+                href="https://blog.floriandambrine.com/fr/categories/ci/cd/"
                 />
   </url>
   
   <url>
-    <loc>https://lowess.github.io/floriandambrine.com/fr/contact/</loc>
+    <loc>https://blog.floriandambrine.com/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lowess.github.io/floriandambrine.com/contact/"
+                href="https://blog.floriandambrine.com/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://lowess.github.io/floriandambrine.com/fr/contact/"
+                href="https://blog.floriandambrine.com/fr/contact/"
                 />
   </url>
   

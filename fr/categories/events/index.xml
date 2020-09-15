@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>events on Florian Dambrine</title>
-    <link>https://lowess.github.io/floriandambrine.com/fr/categories/events/</link>
+    <link>https://blog.floriandambrine.com/fr/categories/events/</link>
     <description>Recent content in events on Florian Dambrine</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 12 Jul 2015 12:14:34 +0600</lastBuildDate><atom:link href="https://lowess.github.io/floriandambrine.com/fr/categories/events/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jul 2015 12:14:34 +0600</lastBuildDate><atom:link href="https://blog.floriandambrine.com/fr/categories/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ansible Meetup</title>
-      <link>https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-07-ansible-meetup/</link>
+      <link>https://blog.floriandambrine.com/fr/portfolio/2015-07-ansible-meetup/</link>
       <pubDate>Sun, 12 Jul 2015 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/fr/portfolio/2015-07-ansible-meetup/</guid>
+      <guid>https://blog.floriandambrine.com/fr/portfolio/2015-07-ansible-meetup/</guid>
       <description>Le Projet Après plus d&amp;rsquo;un an d&amp;rsquo;utilisation d&amp;rsquo;Ansible, j&amp;rsquo;ai décidé de présenter et de partager mon expérience autour de cette technologie lors d&amp;rsquo;un Meetup public organisé à la bibliothèque municipale de Santa Monica en Californie.</description>
     </item>
     
     <item>
       <title>Legend of Code</title>
-      <link>https://lowess.github.io/floriandambrine.com/fr/portfolio/2013-11-legend-of-code/</link>
+      <link>https://blog.floriandambrine.com/fr/portfolio/2013-11-legend-of-code/</link>
       <pubDate>Tue, 12 Nov 2013 12:14:34 +0600</pubDate>
       
-      <guid>https://lowess.github.io/floriandambrine.com/fr/portfolio/2013-11-legend-of-code/</guid>
+      <guid>https://blog.floriandambrine.com/fr/portfolio/2013-11-legend-of-code/</guid>
       <description>Le Projet Legends of code est un concours organisé par D2SI pour les étudiants en dernière année d’école d’ingénieur ou d’université.</description>
     </item>
     
