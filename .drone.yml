@@ -1,6 +1,6 @@
 ---
 hugo_env: &hugo_env
-  BASE_URL: https://lowess.github.io/floriandambrine.com
+  BASE_URL: https://blog.floriandambrine.com/
 
 
 kind: pipeline
