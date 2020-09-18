@@ -3,7 +3,7 @@ title: "Ansible - Continuous Integration"
 date: 2016-03-12T12:14:34+06:00
 image: "images/portfolio/docker.png"
 client: "GumGum"
-project_url : "https://themefisher.com/"
+project_url : "https://slides.com/floriandambrine/tdi-with-ansible-docker-jenkins"
 categories: ["devops", "automation", "ci/cd"]
 description: "This is meta description."
 draft: false

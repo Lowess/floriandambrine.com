@@ -2,8 +2,8 @@
 title: "Ansible Meetup"
 date: 2015-07-12T12:14:34+06:00
 image: "images/portfolio/ansible-meetup.png"
-client: "Snecma"
-project_url : "https://themefisher.com/"
+client: "GumGum"
+project_url : "https://slides.com/floriandambrine/ansible-tips-and-tricks"
 categories: ["speaker", "devops"]
 description: "This is meta description."
 draft: false

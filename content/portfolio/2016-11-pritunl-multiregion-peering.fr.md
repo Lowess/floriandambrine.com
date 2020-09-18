@@ -2,8 +2,8 @@
 title: " Pritunl VPN - Multiregion peering"
 date: 2016-11-12T12:14:34+06:00
 image: "images/portfolio/pritunl.png"
-client: "D2SI"
-project_url : "https://themefisher.com/"
+client: "GumGum"
+project_url : "https://pritunl.com/"
 categories: ["devops"]
 description: "This is meta description."
 draft: false

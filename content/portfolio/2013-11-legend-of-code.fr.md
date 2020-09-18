@@ -3,7 +3,7 @@ title: "Legend of Code"
 date: 2013-11-12T12:14:34+06:00
 image: "images/portfolio/legends-of-code2.jpg"
 client: "Snecma"
-project_url : "https://themefisher.com/"
+project_url : "https://blog.revolve.team/2013/12/04/legends-of-code-2/"
 categories: ["events", "development"]
 description: "This is meta description."
 draft: false

@@ -2,8 +2,8 @@
 title: "ArcheoSuite"
 date: 2014-02-12T12:14:34+06:00
 image: "images/portfolio/archeo.png"
-client: "Snecma"
-project_url : "https://themefisher.com/"
+client: "Amiens Métropole"
+project_url : "https://github.com/Lowess/ArcheoExtractor"
 categories: ["internship", "development"]
 description: "This is meta description."
 draft: false

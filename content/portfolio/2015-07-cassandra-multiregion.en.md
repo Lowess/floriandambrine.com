@@ -2,8 +2,8 @@
 title: "Cassandra - Interconnexion de clusters en multi-régions"
 date: 2015-07-12T12:14:34+06:00
 image: "images/portfolio/cassandra.png"
-client: "Snecma"
-project_url : "https://themefisher.com/"
+client: "GumGum"
+project_url : "http://slides.com/mario2/cassandra-summit-2015-gumgum"
 categories: ["devops", "automation"]
 description: "This is meta description."
 draft: false

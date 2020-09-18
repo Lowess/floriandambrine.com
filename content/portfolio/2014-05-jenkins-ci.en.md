@@ -2,8 +2,8 @@
 title: "Jenkins CI"
 date: 2014-05-12T12:14:34+06:00
 image: "images/portfolio/jenkins.png"
-client: "Snecma"
-project_url : "https://themefisher.com/"
+client: "GumGum"
+project_url : "https://www.jenkins.io/"
 categories: ["internship", "development"]
 description: "This is meta description."
 draft: false

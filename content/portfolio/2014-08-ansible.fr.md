@@ -2,8 +2,8 @@
 title: "Ansible - Automatisation d'infrastructure"
 date: 2014-08-12T12:14:34+06:00
 image: "images/portfolio/ansible.png"
-client: "Snecma"
-project_url : "https://themefisher.com/"
+client: "GumGum"
+project_url : "https://ansible.com/"
 categories: ["internship", "development"]
 description: "This is meta description."
 draft: false

@@ -2,8 +2,8 @@
 title: "Logstash - Centralisation d'évènements"
 date: 2014-06-12T12:14:34+06:00
 image: "images/portfolio/logstash.png"
-client: "Snecma"
-project_url : "https://themefisher.com/"
+client: "GumGum"
+project_url : "https://www.elastic.co/logstash"
 categories: ["internship", "development"]
 description: "This is meta description."
 draft: false

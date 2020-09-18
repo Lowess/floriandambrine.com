@@ -3,7 +3,7 @@ title: "Speaker at TIAD conference"
 date: 2016-10-12T12:14:34+06:00
 image: "images/portfolio/tiad2.jpg"
 client: "D2SI"
-project_url : "https://themefisher.com/"
+project_url : "https://blog.revolve.team/2015/01/29/evenement-tiad-automatisation/"
 categories: ["devops", "speaker"]
 description: "This is meta description."
 draft: false

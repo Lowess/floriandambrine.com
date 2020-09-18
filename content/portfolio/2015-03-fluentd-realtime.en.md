@@ -2,8 +2,8 @@
 title: "Fluentd Traitement de données temps réel"
 date: 2015-03-12T12:14:34+06:00
 image: "images/portfolio/fluentd.png"
-client: "Snecma"
-project_url : "https://themefisher.com/"
+client: "GumGum"
+project_url : "https://www.fluentd.org/"
 categories: ["devops", "development"]
 description: "This is meta description."
 draft: false

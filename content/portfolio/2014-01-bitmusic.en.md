@@ -2,8 +2,8 @@
 title: "Bitmusic"
 date: 2014-01-12T12:14:34+06:00
 image: "images/portfolio/bitmusic.png"
-client: "Snecma"
-project_url : "https://themefisher.com/"
+client: "UTC"
+project_url : "https://github.com/Lowess/bitmusic"
 categories: ["development"]
 description: "This is meta description."
 draft: false

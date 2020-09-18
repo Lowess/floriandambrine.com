@@ -2,8 +2,8 @@
 title: "Ansible - Security with Vault"
 date: 2015-12-12T12:14:34+06:00
 image: "images/portfolio/vault.png"
-client: "Snecma"
-project_url : "https://themefisher.com/"
+client: "GumGum"
+project_url : "https://docs.ansible.com/ansible/latest/user_guide/vault.html"
 categories: ["devops", "automation"]
 description: "This is meta description."
 draft: false
