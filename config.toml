@@ -104,12 +104,12 @@ map_marker = "images/marker.png"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-URL = "https://twitter.com/DambrineF"
+link = "https://twitter.com/DambrineF"
 
 [[params.social]]
 icon = "ti-github"
-URL = "https://github.com/Lowess"
+link = "https://github.com/Lowess"
 
 [[params.social]]
 icon = "ti-linkedin"
-URL = "https://www.linkedin.com/in/florian-dambrine-0116b190/"
+link = "https://www.linkedin.com/in/florian-dambrine-0116b190/"

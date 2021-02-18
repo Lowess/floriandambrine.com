@@ -1,5 +1,5 @@
 ---
 title: "Contact"
-description: "This is meta description."
+description: "Suivez-moi sur les réseaux"
 draft: false
 ---
